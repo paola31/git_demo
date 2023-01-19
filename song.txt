@@ -1,1 +1,2 @@
 black walls inside
+white walls outside
